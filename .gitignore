@@ -1,3 +1,4 @@
 ObsidianTasker.egg-info/
 venv/
 ObsidianTasker/__pycache__/
+build/
